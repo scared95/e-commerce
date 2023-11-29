@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: green;
+    padding: 20px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: blueviolet;
+  }
+  
+  .LENOVO MONITOR {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 500px;
+    background-image: url(https://rukminim2.flixcart.com/image/416/416/ko8xtow0/monitor/t/a/y/d24-20-66aekac1in-lenovo-original-imag2qwzazcdmqtb.jpeg?q=70);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .LENOVO-image {
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .MONITOR CONTENT {
+    text-align: center;
+    color:red;
+  }
+  
+  h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+  
+  a.button {
+    background-color: green;
+    color: yellow;
+    padding: 10px 20px;
+    border:30px;
+  }
